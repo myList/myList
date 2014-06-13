@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: myList
 ! Expires: 360 days (update frequency)
-! Homepage: https://github.com/sjm666cn/myList
+! Homepage: https://github.com/myList/myList
 ! List version 140613
 ||google-analytics.com^$third-party
 ||googletagservices.com^$third-party
