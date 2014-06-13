@@ -3,16 +3,11 @@
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/myList/myList
 ! List version 140613
-||google-analytics.com^$third-party
-||googletagservices.com^$third-party
-||webterren.com^$third-party
-||wrating.com^$third-party
+||googletagservices.com/tag/js/gpt$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
 ||qhimg.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||egovsum.com^$third-party
-||gridsumdissector.com^$third-party
 ||irs01.com^$third-party
-||nsclick.baidu.com^
 ||cntv.cn/Library/yixuan/yixuan_nav/*
 ||gwy.cn/qzzn/*
 ||qzzn.com/statics/*
@@ -25,8 +20,6 @@
 ||xinhuanet.com/newscenter/HLRelation_*.js
 ||bshare.cn^$third-party
 ||pv.sogou.com^
-/webdig.js
-/analytics/*
 people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
 people.com.cn###gongjutiao
