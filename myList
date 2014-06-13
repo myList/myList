@@ -19,7 +19,7 @@
 ||qzzn.com/statics/*
 ||qzzn.com/images/ad*
 ||qzzn.com/images420/pwicon/*
-||qzs.qq.com^$third-party
+||qzs.qq.com^
 ||wenhui.news365.com.cn/images/page_effect.swf
 ||people.com.cn/img/2013people/images/right_banner4.jpg
 ||people.com.cn/img/2012wbn/rmwbShare.js
@@ -27,7 +27,8 @@
 ||xinhuanet.com/newscenter/HLRelation_*.js
 ||bshare.cn^$third-party
 ||pv.sogou.com^
-/webdig.js
+/webdig/*
+/analytics/*
 people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
 people.com.cn###gongjutiao
