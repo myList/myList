@@ -27,7 +27,7 @@
 ||xinhuanet.com/newscenter/HLRelation_*.js
 ||bshare.cn^$third-party
 ||pv.sogou.com^
-/webdig/*
+/webdig.js
 /analytics/*
 people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
