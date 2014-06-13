@@ -7,7 +7,6 @@
 ||googletagservices.com^$third-party
 ||webterren.com^$third-party
 ||wrating.com^$third-party
-||qq.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
 ||qhimg.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||egovsum.com^$third-party
