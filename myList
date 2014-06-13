@@ -32,7 +32,8 @@ people.com.cn###gongjutiao
 people.com.cn##.ad_360
 xinhuanet.com###flpage
 xinhuanet.com###right_360
-qzzn.com##DIV[style="padding:10px 0 0 0; width:1020px; height:155px; overflow:hidden;"]
+qzzn.com##A[target="_blank"]:last-child
+qzzn.com##DIV[style*=" height:155px; "]
 so.com###m-spread-left
 so.com###so_bd-ad
 so.com###so_feb
