@@ -3,7 +3,10 @@
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/myList/myList
 ! List version 140613
-||googletagservices.com/tag/js/gpt$third-party
+||googletagservices.com^$third-party
+||google-analytics.com^$third-party
+||pzoom.com^$third-party
+||gtimg.cn^$third-party
 ||gridsumdissector.com^$third-party
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
@@ -28,6 +31,7 @@ xinhuanet.com###flpage
 xinhuanet.com###right_360
 qzzn.com##A[target="_blank"]:last-child
 qzzn.com##DIV[style*=" height:155px"]
+tiku.huatu.com##.adv_mentyet
 so.com###m-spread-left
 so.com###so_bd-ad
 ||58.68.146.*^
