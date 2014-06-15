@@ -6,7 +6,7 @@
 ||googletagservices.com^$third-party
 ||google-analytics.com^$third-party
 ||pzoom.com^$third-party
-||gtimg.cn^$third-party
+||qhimg.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||gridsumdissector.com^$third-party
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
