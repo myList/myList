@@ -10,7 +10,6 @@
 ||gridsumdissector.com^$third-party
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
-||qhimg.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||qihoo.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||cntv.cn/Library/yixuan/yixuan_nav/*
 ||gwy.cn/qzzn/*
