@@ -6,7 +6,6 @@
 ||googletagservices.com^$third-party
 ||google-analytics.com^$third-party
 ||pzoom.com^$third-party
-||qhimg.com^$third-party,domain=~so.com|~360safe.com|~360.cn
 ||gridsumdissector.com^$third-party
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
@@ -17,7 +16,6 @@
 ||qzzn.com/images/ad_icon.gif
 ||qzzn.com/images420/pwicon/*
 ||qzs.qq.com/ac/qzfl/*
-||wenhui.news365.com.cn/images/page_effect.swf
 ||people.com.cn/img/2012wbn/rmwbShare.js
 ||people.com.cn/css/2010tianrun/webdig_test.js
 ||xinhuanet.com/newscenter/HLRelation_*.js
