@@ -10,7 +10,6 @@
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
 ||qihoo.com^$third-party,domain=~so.com|~360safe.com|~360.cn
-||cntv.cn/Library/yixuan/yixuan_nav/*
 ||gwy.cn/qzzn/*
 ||qzzn.com/statics/*
 ||qzzn.com/images/ad_icon.gif
@@ -20,6 +19,7 @@
 ||people.com.cn/css/2010tianrun/webdig_test.js
 ||xinhuanet.com/newscenter/HLRelation_*.js
 ||bshare.cn^$third-party
+Library/yixuan/yixuan_nav/*,domain=~cntv.cn|~cctv.com
 people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
 people.com.cn###gongjutiao
