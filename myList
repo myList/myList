@@ -17,7 +17,6 @@
 ||qzs.qq.com/ac/qzfl/*
 ||people.com.cn/img/2012wbn/rmwbShare.js
 ||people.com.cn/css/2010tianrun/webdig_test.js
-||xinhuanet.com/newscenter/HLRelation_*.js
 ||bshare.cn^$third-party
 /Library/yixuan/yixuan_nav/domready.js?*$domain=cctv.com|cntv.cn
 people.com.cn##.tuiguang
