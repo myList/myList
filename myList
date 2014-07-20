@@ -9,8 +9,6 @@
 ||gridsumdissector.com^$third-party
 ||cdnmaster.com^$third-party
 ||360.cn^$third-party,domain=~so.com|~360safe.com
-||qihoo.com^$third-party,domain=~so.com|~360safe.com|~360.cn
-||gwy.cn/qzzn/*
 ||qzzn.com/statics/*
 ||qzzn.com/images/ad_icon.gif
 ||qzzn.com/images420/pwicon/*
@@ -23,7 +21,6 @@ people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
 people.com.cn###gongjutiao
 people.com.cn##.ad_360
-xinhuanet.com###flpage
 xinhuanet.com###right_360
 qzzn.com##[href*="offcn.com"]
 qzzn.com##DIV[style*=" height:155px"]
