@@ -2,7 +2,7 @@
 ! Title: myList
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/myList/myList
-! List version 14070501
+! List version 14072101
 ||googletagservices.com^$third-party
 ||google-analytics.com^$third-party
 ||pzoom.com^$third-party
@@ -15,7 +15,6 @@
 ||qzs.qq.com/ac/qzfl/*
 ||people.com.cn/img/2012wbn/rmwbShare.js
 ||people.com.cn/css/2010tianrun/webdig_test.js
-||bshare.cn^$third-party
 /Library/yixuan/yixuan_nav/domready.js?*$domain=cctv.com|cntv.cn
 people.com.cn##.tuiguang
 people.com.cn##.ad_baidu
