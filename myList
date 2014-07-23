@@ -4,28 +4,11 @@
 ! Homepage: https://github.com/myList/myList
 ! List version 14072101
 ||googletagservices.com^$third-party
-||google-analytics.com^$third-party
 ||pzoom.com^$third-party
-||gridsumdissector.com^$third-party
-||cdnmaster.com^$third-party
-||360.cn^$third-party,domain=~so.com|~360safe.com
 ||qzzn.com/statics/*
 ||qzzn.com/images/ad_icon.gif
 ||qzzn.com/images420/pwicon/*
-||qzs.qq.com/ac/qzfl/*
-||people.com.cn/img/2012wbn/rmwbShare.js
-||people.com.cn/css/2010tianrun/webdig_test.js
 /Library/yixuan/yixuan_nav/domready.js?*$domain=cctv.com|cntv.cn
-people.com.cn##.tuiguang
-people.com.cn##.ad_baidu
-people.com.cn###gongjutiao
-people.com.cn##.ad_360
-xinhuanet.com###right_360
 qzzn.com##[href*="offcn.com"]
 qzzn.com##DIV[style*=" height:155px"]
-zhuantiku.com,tiku.huatu.com##.adv_mentyet
-zhuantiku.com,tiku.huatu.com##.survey
-zhuantiku.com,tiku.huatu.com##.new_customer
-zhuantiku.com,tiku.huatu.com##.wenti_fk
-||58.68.146.*^
 !----------------------------------The End------------------------------------!
