@@ -5,7 +5,6 @@
 ! List version 14072101
 ||googletagservices.com^$third-party
 ||pzoom.com^$third-party
-||qzzn.com/statics/*
 ||qzzn.com/images/ad_icon.gif
 ||qzzn.com/images420/pwicon/*
 /Library/yixuan/yixuan_nav/domready.js?*$domain=cctv.com|cntv.cn
